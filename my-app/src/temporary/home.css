@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+    width: 360px;
+    height: 740px;
+    background-color: #022742;
+    border-radius: 10px;
+    color: #ffffff;
+
+}
+
+.home img {
+    width: 118px;
+    border-radius: 9px;
+}
+
+h1, h2{
+    font-weight: 200;
+}

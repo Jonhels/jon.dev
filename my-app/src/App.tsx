@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Tools from './tools/Tools';
+import Home from './temporary/home';
 
 function App() {
   return (
     <div className="App">
-      <Tools />
+      <Home />
     </div>
   );
 }
